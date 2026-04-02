@@ -1,4 +1,4 @@
-Global Causes of Death Analysis
+Global Causes of Death Analysis (Tableau Dashboard)
 This project analyzes global causes of death over time using Tableau to identify patterns, trends, and key insights.
 
 Tools Used
